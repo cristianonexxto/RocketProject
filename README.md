@@ -18,7 +18,7 @@ Projeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB junt
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="./assets/preview.png" width="100%">
+  <img alt="Projeto DevLinks" src="./Projeto/assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

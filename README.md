@@ -12,7 +12,8 @@ Projeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB junt
 </p>
 
 <p align="center">
-  <img alt="License" src="![1DC013CF-D793-489C-8BDB-4C6482F09114-export](https://github.com/user-attachments/assets/b2fc0ce4-edb1-4373-a23d-c72172ed509c)
+![1DC013CF-D793-489C-8BDB-4C6482F09114-export](https://github.com/user-attachments/assets/9fafc9b9-e2cb-41ad-adfe-75403a35bbad)
+
 ">
 </p>
 

@@ -12,7 +12,8 @@ Projeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB junt
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="![1DC013CF-D793-489C-8BDB-4C6482F09114-export](https://github.com/user-attachments/assets/b2fc0ce4-edb1-4373-a23d-c72172ed509c)
+">
 </p>
 
 <br>
